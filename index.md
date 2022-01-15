@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to This JetBlue giveaway: Finish Our Survey and Win a $500  Gift Card Now!	
 
 You can use the [editor on GitHub](https://github.com/jetblue2022/jetblue2022.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
