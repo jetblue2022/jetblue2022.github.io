@@ -1,36 +1,6 @@
 ## Welcome to This JetBlue giveaway: Finish Our Survey and Win a $500  Gift Card Now!	
 
-You can use the [editor on GitHub](https://github.com/jetblue2022/jetblue2022.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jetblue2022/jetblue2022.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<center><div id="interact-61e2f4bfc76b5200189e6f5d"></div><script>var app_61e2f4bfc76b5200189e6f5d;(function(d, t){var s=d.createElement(t),options={"appId":"61e2f4bfc76b5200189e6f5d","width":"800","height":"800","async":true,"host":"quiz.tryinteract.com","no_cover":true,"redirect_host":true, "footer":"show"};s.src='https://i.tryinteract.com/embed/app.js';s.onload=s.onreadystatechange=function(){var rs=this.readyState;if(rs)if(rs!='complete')if(rs!='loaded')return;try{app_61e2f4bfc76b5200189e6f5d=new InteractApp();app_61e2f4bfc76b5200189e6f5d.initialize(options);app_61e2f4bfc76b5200189e6f5d.display();}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr);})(document,'script');</script></center>
 
 ### Support or Contact
 
